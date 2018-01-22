@@ -3,4 +3,4 @@
 
 # Header
 
-This is something stupid
+This is something smart!
